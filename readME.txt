@@ -8,4 +8,4 @@ The planner program does a simple search from the goal node. that is, it finds i
 is then reversed to generate the path file.
 
 
-![alt text](https://github.com/Rank-N-Tensor/RRT-project/blob/master/Screenshot%20(26).png)
+![RRT image](https://github.com/Rank-N-Tensor/RRT-project/blob/master/Screenshot%20(26).png)
